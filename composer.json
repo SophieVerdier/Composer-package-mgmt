@@ -1,0 +1,17 @@
+{
+    "name": "verdier/quete_package_mgmt",
+    "autoload": {
+        "psr-4": {
+            "Verdier\\QuetePackageMgmt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SOPHIE VERDIER",
+            "email": "sophie.verdier188@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
